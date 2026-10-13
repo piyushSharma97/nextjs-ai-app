@@ -9,9 +9,17 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.23",
+    "@ai-sdk/openai": "^3.0.18",
+    "@ai-sdk/react": "^3.0.51",
+    "@imagekit/next": "^2.1.3",
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "ai": "^6.0.49",
+    "imagekit": "^6.0.0",
     "next": "16.1.4",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "zod": "^4.3.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
