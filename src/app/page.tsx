@@ -110,7 +110,7 @@ export default function Home() {
         {[
           'Next.js 14/15 App Router',
           'Vercel AI SDK (@ai-sdk/openai, @ai-sdk/react)',
-          'OpenAI gpt-5.4-mini',
+          'OpenAI gpt-5-nano',
           'TypeScript',
           'Zod Schema Validation',
           'Tailwind CSS',
